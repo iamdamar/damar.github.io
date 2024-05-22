@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="drawing.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-global="false"
+     inkscape:zoom="0.49353255"
+     inkscape:cx="6588.218"
+     inkscape:cy="-278.60371"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1216">
+      <rect
+         style="opacity:0.477564;fill:#000000;stroke:none;stroke-width:0.999998;-inkscape-stroke:none;stop-color:#000000"
+         id="rect1218"
+         width="142.71716"
+         height="192.35208"
+         x="1713.4446"
+         y="15.163229" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1222">
+      <rect
+         style="opacity:0.477564;fill:#000000;stroke:none;stroke-width:0.999998;-inkscape-stroke:none;stop-color:#000000"
+         id="rect1224"
+         width="86.426544"
+         height="192.35208"
+         x="1945.5765"
+         y="15.163229"
+         transform="rotate(-37.679656)" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1612">
+      <rect
+         style="opacity:1;fill:#ffffff;stroke:none;stroke-width:0.999998;-inkscape-stroke:none;stop-color:#000000"
+         id="rect1614"
+         width="18.361414"
+         height="3.2166181"
+         x="1893.7101"
+         y="154.33009" />
+    </clipPath>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1616"
+       x="-0.0071005919"
+       y="-0.0071005919"
+       width="1.0142012"
+       height="1.0142012">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.63729118"
+         id="feGaussianBlur1618" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1730">
+      <rect
+         style="opacity:1;fill:#ffffff;stroke:none;stroke-width:0.999998;-inkscape-stroke:none;stop-color:#000000"
+         id="rect1732"
+         width="7.2025332"
+         height="1.4689378"
+         x="1988.6573"
+         y="189.82465" />
+    </clipPath>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1738"
+       x="0.31635991"
+       y="0.13742486"
+       width="0.31841163"
+       height="0.70186233">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.31925263"
+         id="feGaussianBlur1740" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1930">
+      <rect
+         style="opacity:1;fill:#ffffff;stroke:none;stroke-width:0.999998;-inkscape-stroke:none;stop-color:#000000"
+         id="rect1932"
+         width="11.088111"
+         height="1.6584781"
+         x="881.68079"
+         y="1584.641"
+         transform="rotate(-57.935068)" />
+    </clipPath>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1934"
+       x="-0.0039940828"
+       y="-0.0039940828"
+       width="1.0079882"
+       height="1.0079882">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.32011256"
+         id="feGaussianBlur1936" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2157">
+      <path
+         id="path2159"
+         style="opacity:1;fill:#ffffff;stroke:none;stroke-width:1;-inkscape-stroke:none;stop-color:#000000"
+         d="m -697.60134,-11.928471 v 8.8459717 h 8.84544 v -8.8459717 z m -141.73192,9.2480146 v 3.14967841 h 13.33561 V -2.6804564 Z m -6.83525,4.624007 v 3.8194051 h 20.57292 V 1.9435506 Z m 31.69677,68.9559984 v 8.845455 h 8.84597 v -8.845455 z m 84.70439,6.366018 v 3.149679 h 13.33511 v -3.149679 z m -6.83575,4.624009 v 3.819403 h 20.57289 v -3.819403 z" />
+    </clipPath>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2161"
+       x="-0.0083333334"
+       y="-0.0083333334"
+       width="1.0166667"
+       height="1.0166667">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.91869216"
+         id="feGaussianBlur2163" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3652">
+      <path
+         id="path3654"
+         style="opacity:1;fill:#003152;fill-opacity:1;stroke:none;stroke-width:1;-inkscape-stroke:none;stop-color:#000000"
+         d="m -372.54159,121.82719 v 2.74815 h 10.56677 v -2.74815 z m -7.53443,6.64145 v 2.74867 h 13.12582 v -2.74867 z" />
+    </clipPath>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter3656"
+       x="-0.0096646941"
+       y="-0.0096646941"
+       width="1.0193294"
+       height="1.0193294">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.0654655"
+         id="feGaussianBlur3658" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3868">
+      <rect
+         style="opacity:1;fill:#003152;fill-opacity:1;stroke:none;stroke-width:0.999998;-inkscape-stroke:none;stop-color:#000000"
+         id="rect3870"
+         width="35.348282"
+         height="4.6231871"
+         x="-97.437233"
+         y="20.013691"
+         transform="rotate(-41.3642)" />
+    </clipPath>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter3872"
+       x="-0.0096646941"
+       y="-0.0096646941"
+       width="1.0193294"
+       height="1.0193294">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.0654655"
+         id="feGaussianBlur3874" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4087">
+      <path
+         id="path4089"
+         style="opacity:1;fill:#003152;fill-opacity:1;stroke:none;stroke-width:1;-inkscape-stroke:none;stop-color:#000000"
+         d="m 207.77439,117.33805 -9.87846,3.62149 0.76119,2.07636 9.87847,-3.62149 z m 46.95115,12.76615 -14.59136,2.1053 0.36328,2.52026 14.59188,-2.1053 z" />
+    </clipPath>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4091"
+       x="-0.006521203"
+       y="-0.006521203"
+       width="1.0130424"
+       height="1.0130424">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.71891739"
+         id="feGaussianBlur4093" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4408">
+      <path
+         id="path4410"
+         style="opacity:1;fill:#003152;fill-opacity:1;stroke:none;stroke-width:1;-inkscape-stroke:none;stop-color:#000000"
+         d="m 585.15859,124.73709 -1.44952,5.05189 39.07308,11.20965 1.44952,-5.05189 z m -26.24903,17.74982 -1.803,4.29431 40.55928,17.02893 1.80247,-4.29379 z" />
+    </clipPath>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4412"
+       x="-0.011094675"
+       y="-0.011094675"
+       width="1.0221894"
+       height="1.0221894">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.1240389"
+         id="feGaussianBlur4414" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4525">
+      <path
+         id="path4527"
+         style="opacity:1;fill:#003152;fill-opacity:1;stroke:none;stroke-width:1;-inkscape-stroke:none;stop-color:#000000"
+         d="m -823.74248,10.803991 v 2.179712 h 4.40695 v -2.179712 z m 109.45482,79.86386 v 2.412772 h 4.35581 v -2.412772 z" />
+    </clipPath>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4529"
+       x="-0.0089866863"
+       y="-0.0089866863"
+       width="1.0179734"
+       height="1.0179734">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.99071981"
+         id="feGaussianBlur4531" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5892">
+      <rect
+         style="opacity:0.294872;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999998;-inkscape-stroke:none;stop-color:#000000"
+         id="rect5894"
+         width="266.03784"
+         height="266.03784"
+         x="1217.5963"
+         y="715.04474" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6174">
+      <rect
+         style="opacity:0.294872;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999998;-inkscape-stroke:none;stop-color:#000000"
+         id="rect6176"
+         width="145.34747"
+         height="111.67532"
+         x="1722.3358"
+         y="60.36721" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <image
+       width="264.58334"
+       height="264.58334"
+       preserveAspectRatio="none"
+       xlink:href="knvep.jpg"
+       id="image4523"
+       x="-884.35126"
+       y="-97.645325"
+       inkscape:export-filename="E:\magang\lamarans\PORTFOLIO\hold\images\jp\jp-7.png"
+       inkscape:export-xdpi="103.68"
+       inkscape:export-ydpi="103.68" />
+    <image
+       width="243.15208"
+       height="243.15208"
+       preserveAspectRatio="none"
+       xlink:href="lvnw.jpg"
+       id="image4405"
+       x="414.98627"
+       y="-25.325397"
+       inkscape:export-filename="E:\magang\lamarans\PORTFOLIO\hold\images\jp\jp-6.png"
+       inkscape:export-xdpi="103.68"
+       inkscape:export-ydpi="103.68" />
+    <image
+       width="264.58334"
+       height="264.58334"
+       preserveAspectRatio="none"
+       xlink:href="lea.jpg"
+       id="image4085"
+       x="107.54839"
+       y="-40.329842"
+       inkscape:export-filename="E:\magang\lamarans\PORTFOLIO\hold\images\jp\jp-8.png"
+       inkscape:export-xdpi="103.68"
+       inkscape:export-ydpi="103.68" />
+    <image
+       width="264.58334"
+       height="264.58334"
+       preserveAspectRatio="none"
+       xlink:href="als.jpg"
+       id="image3866"
+       x="-207.88193"
+       y="-65.967041"
+       inkscape:export-filename="E:\magang\lamarans\PORTFOLIO\hold\images\jp\jp-5.png"
+       inkscape:export-xdpi="103.68"
+       inkscape:export-ydpi="103.68" />
+    <image
+       width="264.58334"
+       height="264.58334"
+       preserveAspectRatio="none"
+       xlink:href="lheewnl.jpg"
+       id="image3650"
+       x="-518.63306"
+       y="-67.318848"
+       inkscape:export-filename="E:\magang\lamarans\PORTFOLIO\hold\images\jp\jp-4.png"
+       inkscape:export-xdpi="103.68"
+       inkscape:export-ydpi="103.68" />
+    <image
+       width="264.58334"
+       height="264.58334"
+       preserveAspectRatio="none"
+       xlink:href="knvep.jpg"
+       id="image2155"
+       x="-884.35126"
+       y="-97.645325"
+       clip-path="url(#clipPath4525)"
+       style="filter:url(#filter4529)" />
+    <rect
+       style="opacity:1;fill:#ffffff;stroke:none;stroke-width:1;-inkscape-stroke:none;stop-color:#000000"
+       id="rect1244"
+       width="318.55832"
+       height="192.35208"
+       x="1713.4446"
+       y="15.163229"
+       inkscape:export-filename="E:\magang\lamarans\PORTFOLIO\hold\images\jp\jp-hero.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <image
+       width="215.40442"
+       height="215.40442"
+       preserveAspectRatio="none"
+       xlink:href="afw.jpg"
+       id="image1012"
+       x="1752.8882"
+       y="15.163228"
+       style="stroke-width:1.2283" />
+    <g
+       id="g1402">
+      <rect
+         style="opacity:1;fill:#ffffff;stroke:none;stroke-width:1;-inkscape-stroke:none;stop-color:#000000"
+         id="rect1398"
+         width="86.426483"
+         height="192.35208"
+         x="1945.5765"
+         y="15.163228" />
+      <image
+         width="196.93843"
+         height="196.93843"
+         preserveAspectRatio="none"
+         xlink:href="aka.jpg"
+         id="image1024"
+         x="1550.9037"
+         y="-1227.5708"
+         style="stroke-width:1.34348"
+         transform="rotate(37.679656,-10.856175,3.7041663)"
+         clip-path="url(#clipPath1222)" />
+    </g>
+    <image
+       width="264.58334"
+       height="264.58334"
+       preserveAspectRatio="none"
+       xlink:href="kfe.jpg"
+       id="image832"
+       x="-27.547264"
+       y="-444.29663"
+       inkscape:export-filename="E:\magang\lamarans\PORTFOLIO\hold\images\jp\jp-2.png"
+       inkscape:export-xdpi="103.68"
+       inkscape:export-ydpi="103.68" />
+    <image
+       width="264.58334"
+       height="264.58334"
+       preserveAspectRatio="none"
+       xlink:href="klenfe.jpg"
+       id="image844"
+       x="1367.4697"
+       y="-805.18146" />
+    <image
+       width="264.58334"
+       height="264.58334"
+       preserveAspectRatio="none"
+       xlink:href="knvep.jpg"
+       id="image856"
+       x="-884.35126"
+       y="-97.645325"
+       clip-path="url(#clipPath2157)"
+       style="filter:url(#filter2161)" />
+    <image
+       width="264.58334"
+       height="264.58334"
+       preserveAspectRatio="none"
+       xlink:href="kscn.jpg"
+       id="image868"
+       x="-385.39944"
+       y="-404.87222"
+       inkscape:export-filename="E:\magang\lamarans\PORTFOLIO\hold\images\jp\jp-1.png"
+       inkscape:export-xdpi="103.68"
+       inkscape:export-ydpi="103.68" />
+    <image
+       width="285.75"
+       height="284.69168"
+       preserveAspectRatio="none"
+       xlink:href="ksk.jpg"
+       id="image880"
+       x="1207.7402"
+       y="705.71783"
+       clip-path="url(#clipPath5892)"
+       inkscape:export-filename="E:\magang\lamarans\PORTFOLIO\hold\images\jp\jp-12.png"
+       inkscape:export-xdpi="103.11"
+       inkscape:export-ydpi="103.11" />
+    <image
+       width="264.58334"
+       height="264.58334"
+       preserveAspectRatio="none"
+       xlink:href="kwfwk.jpg"
+       id="image892"
+       x="1673.9041"
+       y="697.23431"
+       inkscape:export-filename="E:\magang\lamarans\PORTFOLIO\hold\images\jp\jp-13.png"
+       inkscape:export-xdpi="103.68"
+       inkscape:export-ydpi="103.68" />
+    <image
+       width="264.58334"
+       height="264.58334"
+       preserveAspectRatio="none"
+       xlink:href="ldbrl.jpg"
+       id="image904"
+       x="272.68463"
+       y="714.17401"
+       inkscape:export-filename="E:\magang\lamarans\PORTFOLIO\hold\images\jp\jp-9.png"
+       inkscape:export-xdpi="103.68"
+       inkscape:export-ydpi="103.68" />
+    <image
+       width="264.58334"
+       height="264.58334"
+       preserveAspectRatio="none"
+       xlink:href="lea.jpg"
+       id="image916"
+       x="107.54839"
+       y="-40.329842"
+       clip-path="url(#clipPath4087)"
+       style="filter:url(#filter4091)" />
+    <image
+       width="264.58334"
+       height="264.58334"
+       preserveAspectRatio="none"
+       xlink:href="lheewnl.jpg"
+       id="image928"
+       x="-518.63306"
+       y="-67.318848"
+       clip-path="url(#clipPath3652)"
+       style="filter:url(#filter3656)" />
+    <image
+       width="243.15208"
+       height="243.15208"
+       preserveAspectRatio="none"
+       xlink:href="lvnw.jpg"
+       id="image940"
+       x="414.98627"
+       y="-25.325397"
+       clip-path="url(#clipPath4408)"
+       style="filter:url(#filter4412)" />
+    <image
+       width="264.58334"
+       height="264.58334"
+       preserveAspectRatio="none"
+       xlink:href="oiee.jpg"
+       id="image952"
+       x="-397.53003"
+       y="-744.52856" />
+    <image
+       width="264.58334"
+       height="264.58334"
+       preserveAspectRatio="none"
+       xlink:href="wejkg.jpg"
+       id="image964"
+       x="545.62274"
+       y="662.61908"
+       inkscape:export-filename="E:\magang\lamarans\PORTFOLIO\hold\images\jp\jp-10.png"
+       inkscape:export-xdpi="103.68"
+       inkscape:export-ydpi="103.68" />
+    <image
+       width="264.58334"
+       height="264.58334"
+       preserveAspectRatio="none"
+       xlink:href="wlfnwl.jpg"
+       id="image976"
+       x="870.11584"
+       y="699.01068"
+       inkscape:export-filename="E:\magang\lamarans\PORTFOLIO\hold\images\jp\jp-11.png"
+       inkscape:export-xdpi="103.68"
+       inkscape:export-ydpi="103.68" />
+    <image
+       width="285.75"
+       height="282.31042"
+       preserveAspectRatio="none"
+       xlink:href="adw.jpg"
+       id="image988"
+       x="302.625"
+       y="-783.94043" />
+    <image
+       width="264.58334"
+       height="264.58334"
+       preserveAspectRatio="none"
+       xlink:href="adwa.jpg"
+       id="image1000"
+       x="287.47546"
+       y="305.01492" />
+    <image
+       width="264.58334"
+       height="264.58334"
+       preserveAspectRatio="none"
+       xlink:href="als.jpg"
+       id="image1036"
+       x="-207.88193"
+       y="-65.967041"
+       clip-path="url(#clipPath3868)"
+       style="filter:url(#filter3872)" />
+    <image
+       width="264.58334"
+       height="264.58334"
+       preserveAspectRatio="none"
+       xlink:href="asdw.jpg"
+       id="image1048"
+       x="-426.61118"
+       y="302.87051" />
+    <image
+       width="285.75"
+       height="285.75"
+       preserveAspectRatio="none"
+       xlink:href="dks.jpg"
+       id="image1060"
+       x="-7.8041358"
+       y="-761.17719" />
+    <image
+       width="192.35208"
+       height="192.35208"
+       preserveAspectRatio="none"
+       xlink:href="dweff.jpg"
+       id="image1072"
+       x="1675.3312"
+       y="15.163229"
+       style="stroke-width:1.37552"
+       clip-path="url(#clipPath1216)"
+       inkscape:export-filename="E:\magang\lamarans\PORTFOLIO\hold\images\jp\jp-hero.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <image
+       width="264.58334"
+       height="264.58334"
+       preserveAspectRatio="none"
+       xlink:href="kee.jpg"
+       id="image1084"
+       x="290.88052"
+       y="-397.29062"
+       inkscape:export-filename="E:\magang\lamarans\PORTFOLIO\hold\images\jp\jp-3.png"
+       inkscape:export-xdpi="103.68"
+       inkscape:export-ydpi="103.68" />
+    <image
+       width="215.40442"
+       height="215.40442"
+       preserveAspectRatio="none"
+       xlink:href="afw.jpg"
+       id="image1506"
+       x="1752.8882"
+       y="15.163228"
+       style="stroke-width:1.2283;filter:url(#filter1616)"
+       clip-path="url(#clipPath1612)" />
+    <g
+       id="g1624"
+       clip-path="url(#clipPath1730)"
+       style="filter:url(#filter1738)">
+      <rect
+         style="opacity:1;fill:#ffffff;stroke:none;stroke-width:1;-inkscape-stroke:none;stop-color:#000000"
+         id="rect1620"
+         width="86.426483"
+         height="192.35208"
+         x="1945.5765"
+         y="15.163228" />
+      <image
+         width="196.93843"
+         height="196.93843"
+         preserveAspectRatio="none"
+         xlink:href="aka.jpg"
+         id="image1622"
+         x="1550.9037"
+         y="-1227.5708"
+         style="stroke-width:1.34348"
+         transform="rotate(37.679656,-10.856175,3.7041663)"
+         clip-path="url(#clipPath1222)" />
+    </g>
+    <image
+       width="192.35208"
+       height="192.35208"
+       preserveAspectRatio="none"
+       xlink:href="dweff.jpg"
+       id="image1742"
+       x="1675.3312"
+       y="15.163229"
+       style="stroke-width:1.37552;filter:url(#filter1934)"
+       clip-path="url(#clipPath1930)" />
+    <rect
+       style="opacity:1;fill:#003152;stroke:none;stroke-width:1;-inkscape-stroke:none;stop-color:#000000;fill-opacity:1"
+       id="rect2187"
+       width="51.554977"
+       height="41.698879"
+       x="-713.80896"
+       y="-28.810131" />
+    <rect
+       style="opacity:1;fill:#003152;fill-opacity:1;stroke:none;stroke-width:1;-inkscape-stroke:none;stop-color:#000000"
+       id="rect3461"
+       width="45.868763"
+       height="39.424393"
+       x="-830.18671"
+       y="54.966702" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;-inkscape-stroke:none;stop-color:#000000"
+       id="rect4555"
+       width="21.205284"
+       height="4.2307405"
+       x="-380.62396"
+       y="138.31708" />
+    <image
+       width="215.40442"
+       height="215.40442"
+       preserveAspectRatio="none"
+       xlink:href="afw.jpg"
+       id="image6002"
+       x="1752.8882"
+       y="15.163228"
+       style="stroke-width:1.2283;filter:url(#filter1616)"
+       clip-path="url(#clipPath1612)" />
+    <image
+       width="192.35208"
+       height="192.35208"
+       preserveAspectRatio="none"
+       xlink:href="dweff.jpg"
+       id="image6004"
+       x="1675.3312"
+       y="15.163229"
+       style="stroke-width:1.37552;filter:url(#filter1934)"
+       clip-path="url(#clipPath1930)" />
+    <image
+       width="192.35208"
+       height="192.35208"
+       preserveAspectRatio="none"
+       xlink:href="dweff.jpg"
+       id="image6086"
+       x="1675.3312"
+       y="15.163229"
+       style="stroke-width:1.37552"
+       clip-path="url(#clipPath6174)"
+       inkscape:export-filename="E:\magang\lamarans\PORTFOLIO\hold\images\work_3_large.png"
+       inkscape:export-xdpi="104.85"
+       inkscape:export-ydpi="104.85"
+       transform="translate(-87.920578,-216.58484)" />
+    <image
+       width="192.35208"
+       height="192.35208"
+       preserveAspectRatio="none"
+       xlink:href="dweff.jpg"
+       id="image6088"
+       x="1675.3312"
+       y="15.163229"
+       style="stroke-width:1.37552;filter:url(#filter1934)"
+       clip-path="url(#clipPath1930)"
+       transform="translate(-87.920578,-216.58484)" />
+    <image
+       width="192.35208"
+       height="192.35208"
+       preserveAspectRatio="none"
+       xlink:href="dweff.jpg"
+       id="image6090"
+       x="1675.3312"
+       y="15.163229"
+       style="stroke-width:1.37552;filter:url(#filter1934)"
+       clip-path="url(#clipPath1930)"
+       transform="translate(-87.920578,-216.58484)" />
+  </g>
+</svg>

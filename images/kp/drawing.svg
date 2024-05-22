@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="drawing.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-global="false"
+     inkscape:zoom="0.49353255"
+     inkscape:cx="16540.956"
+     inkscape:cy="-1929.9639"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1352">
+      <rect
+         style="opacity:0.410256;fill:#1a1a1a;stroke:none;stroke-width:0.0999998;stop-color:#000000"
+         id="rect1354"
+         width="286.03604"
+         height="286.03604"
+         x="1177.3989"
+         y="-536.51617" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4688">
+      <rect
+         style="opacity:0.907051;fill:#002072;fill-opacity:1;stroke:none;stroke-width:0.0999998;stop-color:#000000"
+         id="rect4690"
+         width="156.93942"
+         height="39.424393"
+         x="-547.39258"
+         y="401.06738" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5017">
+      <path
+         id="path5019"
+         style="opacity:0.907051;fill:#002072;fill-opacity:1;stroke:none;stroke-width:0.1;stop-color:#000000"
+         d="m -544.6789,404.75617 v 32.166 h 150.10866 v -32.166 z m -149.73659,255.50069 v 40.12674 h 112.95848 v -40.12674 z m 314.63712,3.03236 v 31.40792 h 130.01687 v -31.40792 z m -316.91193,41.69876 v 17.0031 h 119.40307 v -17.0031 z m 325.25147,0 v 17.0031 h 108.0301 v -17.0031 z" />
+    </clipPath>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter5021"
+       x="-0.041338093"
+       y="-0.058481432"
+       width="1.0826762"
+       height="1.1169629">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="8.2394861"
+         id="feGaussianBlur5023" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5041">
+      <path
+         id="path5043"
+         style="opacity:0.907051;fill:#002072;fill-opacity:1;stroke:none;stroke-width:0.0999998;stop-color:#000000"
+         d="M 87.188992,346.07966 V 362.6988 H 190.20957 V 346.07966 Z M 92.419681,476.45 v 22.11543 H 146.99464 V 476.45 Z m 196.363709,0 v 22.11543 h 32.5882 V 476.45 Z M 89.766098,501.65878 v 8.27908 h 60.829872 v -8.27908 z m 159.024402,0 v 8.27908 h 116.36498 v -8.27908 z" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5017-2">
+      <path
+         id="path5019-0"
+         style="opacity:0.907051;fill:#002072;fill-opacity:1;stroke:none;stroke-width:0.1;stop-color:#000000"
+         d="m -544.6789,404.75617 v 32.166 h 150.10866 v -32.166 z m -149.73659,255.50069 v 40.12674 h 112.95848 v -40.12674 z m 314.63712,3.03236 v 31.40792 h 130.01687 v -31.40792 z m -316.91193,41.69876 v 17.0031 h 119.40307 v -17.0031 z m 325.25147,0 v 17.0031 h 108.0301 v -17.0031 z" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5088">
+      <path
+         id="path5090"
+         style="opacity:0.907051;fill:#002072;fill-opacity:1;stroke:none;stroke-width:0.1;stop-color:#000000"
+         d="m 1541.8268,450.86085 v 32.166 h 204.7906 v -32.166 z m -46.2695,255.50069 v 40.12673 h 91.5143 v -40.12673 z m 198.3031,3.03236 v 31.40792 h 83.9122 V 709.3939 Z m -208.6193,41.69876 v 17.0031 h 119.4031 v -17.0031 z m 180.5042,0 v 17.0031 h 141.8048 v -17.0031 z" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5017-7">
+      <path
+         id="path5019-9"
+         style="opacity:0.907051;fill:#002072;fill-opacity:1;stroke:none;stroke-width:0.1;stop-color:#000000"
+         d="m -544.6789,404.75617 v 32.166 h 150.10866 v -32.166 z m -149.73659,255.50069 v 40.12674 h 112.95848 v -40.12674 z m 314.63712,3.03236 v 31.40792 h 130.01687 v -31.40792 z m -316.91193,41.69876 v 17.0031 h 119.40307 v -17.0031 z m 325.25147,0 v 17.0031 h 108.0301 v -17.0031 z" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5215">
+      <path
+         id="path5217"
+         style="opacity:0.907051;fill:#002072;fill-opacity:1;stroke:none;stroke-width:0.1;stop-color:#000000"
+         d="m 2656.917,432.63354 v 38.23126 h 302.5934 v -38.23126 z m -131.9414,257.77497 v 40.12674 h 91.5143 v -40.12674 z m 243.0344,5.30717 v 31.4079 h 83.9126 v -31.4079 z m 202.1099,0 v 31.4079 h 83.9123 v -31.4079 z m -455.4605,39.42445 v 17.00258 h 119.4025 v -17.00258 z m 203.7917,0.66612 v 17.00257 h 176.1149 v -17.00257 z m 243.3897,0 v 17.00257 h 105.8863 v -17.00257 z" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5017-5">
+      <path
+         id="path5019-2"
+         style="opacity:0.907051;fill:#002072;fill-opacity:1;stroke:none;stroke-width:0.1;stop-color:#000000"
+         d="m -544.6789,404.75617 v 32.166 h 150.10866 v -32.166 z m -149.73659,255.50069 v 40.12674 h 112.95848 v -40.12674 z m 314.63712,3.03236 v 31.40792 h 130.01687 v -31.40792 z m -316.91193,41.69876 v 17.0031 h 119.40307 v -17.0031 z m 325.25147,0 v 17.0031 h 108.0301 v -17.0031 z" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5411">
+      <rect
+         style="font-variation-settings:normal;opacity:0.477564;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         id="rect5413"
+         width="318.55832"
+         height="192.35208"
+         x="4215.3057"
+         y="-451.06796" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <image
+       width="928.15833"
+       height="656.16669"
+       preserveAspectRatio="none"
+       xlink:href="AHMAD%20PAJRI%20PAHLEVI.png"
+       id="image916"
+       x="2343.3621"
+       y="188.93008"
+       inkscape:export-filename="E:\magang\lamarans\PORTFOLIO\hold\images\kp\kp-12.png"
+       inkscape:export-xdpi="41.80645"
+       inkscape:export-ydpi="41.80645" />
+    <image
+       width="928.15833"
+       height="656.16669"
+       preserveAspectRatio="none"
+       xlink:href="AHMAD%20PAJRI%20PAHLEVI.png"
+       id="image5133"
+       x="2343.3621"
+       y="188.93008"
+       clip-path="url(#clipPath5215)"
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;filter:url(#filter5021);stop-color:#000000;stop-opacity:1" />
+    <image
+       width="928.15833"
+       height="656.16669"
+       preserveAspectRatio="none"
+       xlink:href="IRFAN%20MAULANA.png"
+       id="image5086"
+       x="1180.5938"
+       y="204.61362"
+       inkscape:export-filename="E:\magang\lamarans\PORTFOLIO\hold\images\kp\kp-11.png"
+       inkscape:export-xdpi="41.80645"
+       inkscape:export-ydpi="41.80645" />
+    <image
+       width="478.36667"
+       height="338.13751"
+       preserveAspectRatio="none"
+       xlink:href="../../../../../Kilasperintis/Tugas%209/Sertif/Peserta/AYU%20FEBRIANI.png"
+       id="image5039"
+       x="48.152851"
+       y="224.73648"
+       inkscape:export-filename="E:\magang\lamarans\PORTFOLIO\hold\images\kp\kp-10.png"
+       inkscape:export-xdpi="81.126747"
+       inkscape:export-ydpi="81.126747" />
+    <image
+       width="928.15833"
+       height="656.16669"
+       preserveAspectRatio="none"
+       xlink:href="Ismayuroh.png"
+       id="image5015"
+       x="-931.99609"
+       y="157.68921"
+       inkscape:export-filename="E:\magang\lamarans\PORTFOLIO\hold\images\kp\kp-9.png"
+       inkscape:export-xdpi="41.80645"
+       inkscape:export-ydpi="41.80645" />
+    <image
+       width="478.36667"
+       height="338.13751"
+       preserveAspectRatio="none"
+       xlink:href="../../../../../Kilasperintis/Tugas%209/Sertif/Peserta/AYU%20FEBRIANI.png"
+       id="image4898"
+       x="48.152851"
+       y="224.73648"
+       clip-path="url(#clipPath5041)"
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;filter:url(#filter5021);stop-color:#000000;stop-opacity:1" />
+    <image
+       width="928.15833"
+       height="656.16669"
+       preserveAspectRatio="none"
+       xlink:href="Ismayuroh.png"
+       id="image4686"
+       x="-931.99609"
+       y="157.68921"
+       clip-path="url(#clipPath5017)"
+       style="filter:url(#filter5021)" />
+    <image
+       width="285.75"
+       height="357.1875"
+       preserveAspectRatio="none"
+       xlink:href="20%20pelatihan_IG%206.png"
+       id="image844"
+       x="2730.0908"
+       y="-1254.0125" />
+    <image
+       width="285.75"
+       height="285.75"
+       preserveAspectRatio="none"
+       xlink:href="Puasa-2.png"
+       id="image856"
+       x="-396.20724"
+       y="-717.93787" />
+    <image
+       width="285.75"
+       height="357.1875"
+       preserveAspectRatio="none"
+       xlink:href="live%20flyer%20kuning%20muda.png"
+       id="image892"
+       x="2318.365"
+       y="-1288.323" />
+    <image
+       width="285.75"
+       height="357.1875"
+       preserveAspectRatio="none"
+       xlink:href="perintis%20slide1.png"
+       id="image904"
+       x="2022.4373"
+       y="-1318.3446" />
+    <image
+       width="928.15833"
+       height="656.16669"
+       preserveAspectRatio="none"
+       xlink:href="IRFAN%20MAULANA.png"
+       id="image928"
+       x="1180.5938"
+       y="204.61362"
+       clip-path="url(#clipPath5088)"
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;filter:url(#filter5021);stop-color:#000000;stop-opacity:1" />
+    <image
+       width="285.75"
+       height="357.1875"
+       preserveAspectRatio="none"
+       xlink:href="1.png"
+       id="image940"
+       x="674.20575"
+       y="-1956.8505" />
+    <image
+       width="285.75"
+       height="285.75"
+       preserveAspectRatio="none"
+       xlink:href="qs.png"
+       id="image952"
+       x="-44.768497"
+       y="-1275.4565" />
+    <image
+       width="285.19296"
+       height="285.19296"
+       preserveAspectRatio="none"
+       xlink:href="17%20Juli%202021.png"
+       id="image964"
+       x="-27.334761"
+       y="-703.35822" />
+    <image
+       width="286.03604"
+       height="448.96216"
+       preserveAspectRatio="none"
+       xlink:href="cover.png"
+       id="image976"
+       x="1177.3989"
+       y="-617.97925"
+       clip-path="url(#clipPath1352)"
+       transform="translate(-1916.6321,-178.92609)"
+       inkscape:export-filename="E:\magang\lamarans\PORTFOLIO\hold\images\kp\kp-5.png"
+       inkscape:export-xdpi="95.903999"
+       inkscape:export-ydpi="95.903999" />
+    <image
+       width="285.75"
+       height="285.75"
+       preserveAspectRatio="none"
+       xlink:href="Nabung1.png"
+       id="image988"
+       x="-400.73962"
+       y="-1254.0126" />
+    <image
+       width="285.19296"
+       height="285.19296"
+       preserveAspectRatio="none"
+       xlink:href="ws.png"
+       id="image1000"
+       x="390.23431"
+       y="-719.13104" />
+    <image
+       width="285.75"
+       height="357.1875"
+       preserveAspectRatio="none"
+       xlink:href="3.png"
+       id="image1012"
+       x="1602.134"
+       y="-1374.0991" />
+    <image
+       width="285.75"
+       height="357.1875"
+       preserveAspectRatio="none"
+       xlink:href="2.png"
+       id="image1024"
+       x="1164.6755"
+       y="-1344.0775" />
+    <image
+       width="285.75"
+       height="285.75"
+       preserveAspectRatio="none"
+       xlink:href="as.png"
+       id="image1036"
+       x="329.02609"
+       y="-1265.749" />
+    <image
+       width="285.19296"
+       height="285.19296"
+       preserveAspectRatio="none"
+       xlink:href="ce.png"
+       id="image1048"
+       x="1072.4075"
+       y="-669.78363" />
+    <image
+       width="285.75"
+       height="285.75"
+       preserveAspectRatio="none"
+       xlink:href="26%20maret_flyer%20IG%20pelatihan_5.png"
+       id="image832"
+       x="680.57623"
+       y="-1263.6624" />
+    <image
+       width="318.55832"
+       height="398.27286"
+       preserveAspectRatio="none"
+       xlink:href="../../../../mockups/Frame%208.png"
+       id="image5267"
+       x="4215.3057"
+       y="-507.9306"
+       style="stroke-width:2.35437"
+       clip-path="url(#clipPath5411)"
+       inkscape:export-filename="E:\magang\lamarans\PORTFOLIO\hold\images\kp\kp-hero.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>
